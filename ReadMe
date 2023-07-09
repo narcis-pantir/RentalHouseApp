@@ -1,0 +1,26 @@
+New user:
+•	Should register in order to access the features of the app.
+•	Create account – the new user will have to register by enter the following details First Name, Last Name, Email Address, Password, Confirm Password, Select Account Type (Student, Landlord, Agency), Location.
+Registered User:
+•	Can login – with email and password
+•	Can create another account
+•	Can login in another account
+•	Can logout
+•	Can recover the password if the user forgets the password
+•	Can view the properties listed in the dashboard
+•	Can access his Account details:
+o	View Profile – where the user has his information such as Full Name, Email, Account type.
+o	Change Picture – user can change/update the profile picture.
+o	Reset Password – if the user is login can also change his password, to one stronger or to any other reasons.
+o	Logout – in the account details he can logout if wanted.
+•	Can add a property
+o	Details – the user can add details about the property like the title of property, address, available from date, price, description, telephone number, type of property, number of rooms.
+o	Facilities – for example smoker friendly, disability friendly or adjustable, fully furnished, internet, pets friendly, close to bus stations, close to tube station.
+o	Picture – can as well upload a picture of the property.
+•	View the listing 
+o	View property posted – all the property posted by the user will be showed, with a minimum of information.
+o	Make available/unavailable – if the user clicks one property from the list of the property, then a new tab will be opened with all the information about the property and with two options from where the user can make it available or unavailable. Once, a property is unavailable, anytime the user wants to make the property available again, there is no cooldown. Automatically if the room/apartment/flat will be available/unavailable will appear/disappear from the dashboard where all the properties from all users are displayed.
+•	Can see other users – it is a page where all the users register inside the app, so that everyone can see their Full Name, Type of User and Location.
+•	Can create a topic or see a topic of the forum
+o	View the topics – the user can see all the posted topics; they can also comment or see other comments from users. The comments are posted in a chronological order.
+o	Post a topic – the user can post a forum topic by clicking the post topic, there they have to complete some field such as Title, description and they can upload a picture of the topic if need it.
